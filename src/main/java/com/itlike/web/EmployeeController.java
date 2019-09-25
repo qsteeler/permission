@@ -45,7 +45,6 @@ public class EmployeeController {
     @ResponseBody
     public PageListRes employeeList(QueryVo vo) {
         PageListRes pageListRes = employeeService.getEmployeeList(vo);
-        System.out.println("pageListRes" + pageListRes);
         return pageListRes;
     }
 
@@ -82,7 +81,6 @@ public class EmployeeController {
     public AjaxRes updateEmployee(Employee employee) {
         AjaxRes ajaxRes = new AjaxRes();
         try {
-            System.out.println(employee+"++++++++++++++++++++++++++++++");
             /*调用业务层,更新员工*/
             employeeService.updateEmployee(employee);
             ajaxRes.setMsg("更新成功");

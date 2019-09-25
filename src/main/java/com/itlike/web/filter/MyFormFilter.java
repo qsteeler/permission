@@ -25,9 +25,7 @@ public class MyFormFilter extends FormAuthenticationFilter {
         ajaxRes.setMsg("登录成功");
         /*把对象转成json格式字符串*/
         String jsonString = new ObjectMapper().writeValueAsString(ajaxRes);
-
         response.getWriter().print(jsonString);
-
         return false;
     }
     /*当认证失败时, 会调用*/
@@ -62,7 +60,6 @@ public class MyFormFilter extends FormAuthenticationFilter {
         } catch (IOException e1) {
             e1.printStackTrace();
         }
-
         /*响应给浏览器*/
         return false;
     }

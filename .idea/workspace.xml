@@ -6,9 +6,117 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3b79d4-37a5-4d89-a3d9-119217ca59f6" name="Default Changelist" comment="" />
+    <list default="true" id="7e3b79d4-37a5-4d89-a3d9-119217ca59f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itlike/interceptor/RequestInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itlike/interceptor/RequestInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itlike/web/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itlike/web/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itlike/web/filter/MyFormFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itlike/web/filter/MyFormFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com.itlike.mapper/EmployeeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com.itlike.mapper/EmployeeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/nopermission.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/nopermission.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/common/common.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/common/common.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/images/login_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/images/login_logo_w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/images/loginbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/images/main_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/images/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/images/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com.itlike.mapper/EmployeeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com.itlike.mapper/EmployeeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/aspect/SystemAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/aspect/SystemAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/AjaxRes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/AjaxRes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/PageListRes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/PageListRes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Permission.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Permission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/QueryVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/QueryVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Systemlog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/Systemlog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/interceptor/RequestInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/interceptor/RequestInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/DepartmentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/DepartmentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/EmployeeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/EmployeeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/MenuMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/MenuMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/PermissionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/PermissionMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/RoleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/RoleMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/SystemlogMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/mapper/SystemlogMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/DepartmentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/DepartmentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/MenuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/MenuService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/PermissionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/PermissionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/RoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/RoleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/impl/DepartmentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/impl/DepartmentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/impl/EmployeeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/impl/EmployeeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/impl/MenuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/impl/MenuServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/impl/PermissionServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/impl/PermissionServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/impl/RoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/service/impl/RoleServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/util/RequestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/util/RequestUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/EmployeeController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/EmployeeController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/EmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/MenuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/MenuController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/PermissionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/PermissionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/RoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/RoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/departmentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/departmentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/filter/MyFormFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/filter/MyFormFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/realm/EmployeeRealm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/realm/EmployeeRealm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/static/common/common.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/common/common.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/static/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/static/images/login_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/static/images/login_logo_w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/static/images/loginbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/static/images/main_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/static/images/user.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/images/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com.itlike.mapper/EmployeeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com.itlike.mapper/EmployeeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/aspect/SystemAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/aspect/SystemAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/domain/AjaxRes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/domain/AjaxRes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/domain/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/domain/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/domain/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/domain/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/domain/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/domain/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/domain/PageListRes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/domain/PageListRes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/domain/Permission.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/domain/Permission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/domain/QueryVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/domain/QueryVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/domain/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/domain/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/domain/Systemlog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/domain/Systemlog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/interceptor/RequestInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/interceptor/RequestInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/mapper/DepartmentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/mapper/DepartmentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/mapper/EmployeeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/mapper/EmployeeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/mapper/MenuMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/mapper/MenuMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/mapper/PermissionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/mapper/PermissionMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/mapper/RoleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/mapper/RoleMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/mapper/SystemlogMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/mapper/SystemlogMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/service/DepartmentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/service/DepartmentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/service/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/service/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/service/MenuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/service/MenuService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/service/PermissionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/service/PermissionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/service/RoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/service/RoleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/service/impl/DepartmentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/service/impl/DepartmentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/service/impl/EmployeeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/service/impl/EmployeeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/service/impl/MenuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/service/impl/MenuServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/service/impl/PermissionServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/service/impl/PermissionServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/service/impl/RoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/service/impl/RoleServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/util/RequestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/util/RequestUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/web/EmployeeController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/web/EmployeeController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/web/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/web/EmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/web/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/web/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/web/MenuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/web/MenuController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/web/PermissionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/web/PermissionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/web/RoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/web/RoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/web/departmentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/web/departmentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/web/filter/MyFormFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/web/filter/MyFormFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/web/realm/EmployeeRealm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/web/realm/EmployeeRealm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,29 +204,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/MenuController.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="69" column="5" lean-forward="true" selection-start-line="64" selection-start-column="3" selection-end-line="69" selection-end-column="5" />
+            <state relative-caret-position="-5310">
+              <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/service/impl/MenuServiceImpl.java">
+      <file leaf-file-name="RequestInterceptor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/interceptor/RequestInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="68" column="5" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="68" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/com.itlike.mapper/MenuMapper.xml">
+      <file leaf-file-name="RequestUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/util/RequestUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1161">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="300">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+              <folding>
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyFormFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/filter/MyFormFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
@@ -133,14 +254,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mysql</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/itlike/domain/PageListRes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itlike/domain/QueryVo.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itlike/domain/Role.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menu.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/role.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/static/js/index.js" />
@@ -158,24 +282,18 @@
         <option value="$PROJECT_DIR$/src/main/resources/com.itlike.mapper/MenuMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/domain/Menu.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/domain/Systemlog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/filter/MyFormFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/util/RequestUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itlike/interceptor/RequestInterceptor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/aspect/SystemAspect.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/mapper/SystemlogMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/static/js/menu.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/static/css/base.css" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/static/common/common.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/shiro-ehcache.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/sqlMapConfig.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/MenuController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/RoleController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application-mvc.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/employee.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/static/js/employee.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/service/impl/DepartmentServiceImpl.java" />
@@ -184,9 +302,20 @@
         <option value="$PROJECT_DIR$/src/main/resources/com.itlike.mapper/DepartmentMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/service/EmployeeService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/mapper/EmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/EmployeeController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/com.itlike.mapper/EmployeeMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/service/impl/EmployeeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com.itlike.mapper/EmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/css/login.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/common/common.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itlike/interceptor/RequestInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/filter/MyFormFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/nopermission.jsp" />
       </list>
     </option>
   </component>
@@ -209,7 +338,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:/Web/apache-maven-3.5.4" />
+        <option name="mavenHome" value="D:/Web/apache-maven-3.6.1" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -228,72 +357,72 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Permission Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Permission Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Permission Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-16" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="itlike" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -301,17 +430,8 @@
               <item name="aspect" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itlike" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -319,36 +439,8 @@
               <item name="interceptor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itlike" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itlike" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itlike" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -356,8 +448,8 @@
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -365,8 +457,8 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -375,8 +467,8 @@
               <item name="filter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -385,84 +477,50 @@
               <item name="realm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="com.itlike.mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Permission" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Permission" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -475,18 +533,18 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.itlike.service" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\SSM和SSH\权限系统系列\Permission\src\main\resources\com.itlike.mapper" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\permission\src\main\webapp\static\plugins\easyui" />
+      <recent name="D:\Project\permission\src\main\webapp\static\plugins\easyui\uimaker" />
+      <recent name="D:\Project\permission\src\main\webapp\static\images" />
+      <recent name="D:\Project\permission\src\main\webapp\static\plugins" />
       <recent name="C:\Users\Administrator\Desktop\SSM和SSH\权限系统系列\Permission\src\main\webapp\static" />
-      <recent name="C:\Users\Administrator\Desktop\SSM和SSH\权限系统系列\Permission\src\main\webapp" />
-      <recent name="C:\Users\Administrator\Desktop\SSM和SSH\权限系统系列\Permission\src\main\resources\com.itlike.mapper" />
-      <recent name="C:\Users\Administrator\Desktop\SSM和SSH\权限系统系列\Permission\src\main\java\com\itlike\service" />
-      <recent name="C:\Users\Administrator\Desktop\SSM和SSH\权限系统系列\Permission\src\main\java\com\itlike\service\impl" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.itlike.mapper" />
@@ -495,8 +553,8 @@
       <recent name="com.itlike.util" />
       <recent name="com.itlike.web.filter" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\SSM和SSH\权限系统系列\Permission\src\main\resources\com.itlike.mapper" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.itlike.service" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -512,7 +570,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.15" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
@@ -612,8 +670,7 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
+      <method>
         <option name="BuildArtifacts" enabled="true">
           <artifact name="Permission:war exploded" />
         </option>
@@ -637,11 +694,22 @@
       <workItem from="1550626042469" duration="5517000" />
       <workItem from="1550802863396" duration="13547000" />
       <workItem from="1552026635062" duration="3576000" />
+      <workItem from="1567680132609" duration="3776000" />
+      <workItem from="1567729870440" duration="627000" />
+      <workItem from="1567825569768" duration="742000" />
+      <workItem from="1567991580875" duration="1302000" />
+      <workItem from="1568023776700" duration="661000" />
+      <workItem from="1568102226539" duration="7346000" />
+      <workItem from="1568160915924" duration="7526000" />
+      <workItem from="1568265217884" duration="736000" />
+      <workItem from="1568514088825" duration="1225000" />
+      <workItem from="1568855677196" duration="827000" />
+      <workItem from="1569370809160" duration="15502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62433000" />
+    <option name="totallyTimeSpent" value="102703000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -653,45 +721,44 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="0" width="1936" height="1066" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.1988273" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="JRebel" order="3" sideWeight="0.50082916" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22637363" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4411441" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.24471635" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.5026652" side_tool="true" weight="0.5773875" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.03655914" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" sideWeight="0.49733475" weight="0.13107345" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4779661" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.21098901" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.32925472" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32925472" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.19516128" />
       <window_info anchor="bottom" id="Problems" order="11" weight="0.32925472" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="JRebel Executor" order="14" sideWeight="0.4978678" weight="0.32857144" />
-      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.5021322" side_tool="true" weight="0.16129032" />
-      <window_info anchor="bottom" id="Messages" order="16" weight="0.21098901" />
-      <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.32925472" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.071428575" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="JRebel" order="3" sideWeight="0.50082916" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -700,315 +767,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7260">
-          <caret line="242" selection-start-line="242" selection-end-line="242" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com.itlike.mapper/RoleMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="942">
-          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com.itlike.mapper/PermissionMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/util/RequestUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/aspect/SystemAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/PermissionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/departmentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/realm/AuthorizingRealm.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-602" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1038">
-          <caret line="88" column="37" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/role.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4788" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menu.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="51" column="6" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/role.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/common/common.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="64" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/interceptor/RequestInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1860">
-          <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/filter/MyFormFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-shiro.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="74" column="41" lean-forward="true" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/shiro-ehcache.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1123" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/sqlMapConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="258" column="12" selection-start-line="258" selection-start-column="12" selection-end-line="258" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/service/DepartmentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/service/impl/DepartmentServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="26" column="53" lean-forward="true" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/mapper/DepartmentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com.itlike.mapper/DepartmentMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/employee.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5081">
-          <caret line="284" lean-forward="true" selection-start-line="284" selection-end-line="284" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/employee.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="67" column="77" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/domain/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/service/EmployeeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.7.RELEASE/spring-aop-5.0.7.RELEASE.jar!/org/springframework/aop/interceptor/ExposeInvocationInterceptor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com.itlike.mapper/SystemlogMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com.itlike.mapper/EmployeeMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/service/impl/EmployeeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2079">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.7.RELEASE/spring-aop-5.0.7.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11394">
-          <caret line="468" selection-start-line="468" selection-end-line="468" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.7.RELEASE/spring-aop-5.0.7.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/mapper/EmployeeMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.7.RELEASE/spring-aop-5.0.7.RELEASE.jar!/org/springframework/aop/aspectj/AspectJAfterAdvice.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.7.RELEASE/spring-aop-5.0.7.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.7.RELEASE/spring-aop-5.0.7.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.7.RELEASE/spring-aop-5.0.7.RELEASE.jar!/org/springframework/aop/aspectj/AspectJAfterAdvice.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/RoleController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="557">
@@ -1025,29 +792,280 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/com.itlike.mapper/MenuMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1976">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="1290">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/MenuController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="69" column="5" lean-forward="true" selection-start-line="64" selection-start-column="3" selection-end-line="69" selection-end-column="5" />
+        <state relative-caret-position="1410">
+          <caret line="69" column="5" selection-start-line="64" selection-start-column="3" selection-end-line="69" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/service/impl/MenuServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.21/mysql-connector-java-5.1.21.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/domain/PageListRes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/domain/AjaxRes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/mapper/RoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.itlike.mapper/DepartmentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/service/DepartmentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/domain/QueryVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/service/EmployeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/service/impl/EmployeeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/mapper/EmployeeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/domain/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com.itlike.mapper/EmployeeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="133" column="79" selection-start-line="133" selection-start-column="39" selection-end-line="133" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/login_bg_tubiao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/login_logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/login_logo_w.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/loginbg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/main_logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/user.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/login_top_right.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/login_top_left.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/base.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6604" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/login.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/aspect/SystemAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.7.RELEASE/spring-webmvc-5.0.7.RELEASE.jar!/org/springframework/web/servlet/HandlerInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.4.0/shiro-web-1.4.0-sources.jar!/org/apache/shiro/web/filter/authc/FormAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="195" column="22" selection-start-line="195" selection-start-column="22" selection-end-line="195" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.4.0/shiro-web-1.4.0-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticatingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="73" column="22" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/common/common.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="99" selection-start-line="8" selection-start-column="99" selection-end-line="8" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/nopermission.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="68" column="5" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="68" selection-end-column="5" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-938">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/interceptor/RequestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="198" column="16" selection-start-line="198" selection-start-column="16" selection-end-line="198" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/util/RequestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding>
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/filter/MyFormFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5310">
+          <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
         </state>
       </provider>
     </entry>

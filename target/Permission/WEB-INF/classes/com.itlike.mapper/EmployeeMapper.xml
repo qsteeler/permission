@@ -136,12 +136,10 @@
   </select>
   <!--根据用户的id查询角色编号名称-->
   <select id="getRolesById" resultType="java.lang.String">
-
     SELECT r.rnum from employee_role_rel as er
     LEFT JOIN role as r
     ON er.rid = r.rid
     WHERE eid = #{id}
-
   </select>
   <!--根据用户的id查询权限 资源名称-->
   <!--

@@ -24,13 +24,10 @@ public class EmployeeRealm extends AuthorizingRealm {
     /*认证*/
     @Override
     protected AuthenticationInfo doGetAuthenticationInfo(AuthenticationToken token) throws AuthenticationException {
-        System.out.println("来到了认证-------");
         /*获取身份信息*/
         String username = (String)token.getPrincipal();
-        System.out.println(username);
         /*根据用户名当中查询有没有当前用户*/
         Employee employee = employeeService.getEmployeeWithUserName(username);
-        System.out.println(employee);
         if (employee == null){
             return null;
         }
@@ -51,7 +48,6 @@ public class EmployeeRealm extends AuthorizingRealm {
     * */
     @Override
     protected AuthorizationInfo doGetAuthorizationInfo(PrincipalCollection principalCollection) {
-        System.out.println("授权调用-------------------");
         /*获取用户的身份信息*/
         Employee employee = (Employee) principalCollection.getPrimaryPrincipal();
         /*根据当前用,查询角色和权限*/
