@@ -14,15 +14,15 @@
 <body class="easyui-layout">
 <%--顶部--%>
 <div data-options="region:'north'" style="height:100px; background: #4292b7;color: #ffffff">
-    <div class="pull-left text-center" style="width: 300px;height: 100%;border-right: 1px solid #ffffff;">
-        <h2 style="margin-top: 30px">权限管理系统</h2>
+    <div style="width: 300px;height: 100%;border-right: 1px solid #ffffff;padding-top: 15px">
+        <h2 class="text-center">权限管理系统</h2>
     </div>
-    <div class="pull-right dropdown" style="margin-right: 30px;margin-top: 27px;">
+    <div class="dropdown" style="position: absolute;right: 60px;top: 28px;">
         <div style="width: 40px;height: 40px;" id="dLabel" data-toggle="dropdown">
             <img src="./static/images/user.png" style="width: 40px;height: 40px;border-radius: 20px">
         </div>
 
-        <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel" style="left: -175px;top: -23px;">
             <li role="presentation"><%--显示当前登录用户名--%>
                 <a href="#" role="menuitem" tabindex="-1">用户名 : <shiro:principal property="username"/></a>
             </li>

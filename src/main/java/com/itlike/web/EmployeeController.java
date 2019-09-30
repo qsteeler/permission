@@ -7,7 +7,6 @@ import com.itlike.domain.PageListRes;
 import com.itlike.domain.QueryVo;
 import com.itlike.service.DepartmentService;
 import com.itlike.service.EmployeeService;
-import com.sun.deploy.util.SystemUtils;
 import org.apache.commons.io.IOUtils;
 import org.apache.poi.hssf.usermodel.HSSFRow;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
@@ -17,7 +16,6 @@ import org.apache.poi.ss.usermodel.DateUtil;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.shiro.authz.AuthorizationException;
 import org.apache.shiro.authz.annotation.RequiresPermissions;
-import org.aspectj.weaver.ast.Instanceof;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ExceptionHandler;
@@ -31,7 +29,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.List;
 
 @Controller
@@ -106,7 +103,6 @@ public class EmployeeController {
             ajaxRes.setMsg("更新成功");
             ajaxRes.setSuccess(true);
         } catch (Exception e) {
-            System.out.println(e);
             ajaxRes.setSuccess(false);
             ajaxRes.setMsg("更新失败");
         }
@@ -138,7 +134,6 @@ public class EmployeeController {
         try {
             //1.从数据库当中取列表数据
             List<Employee> employees = employeeService.getAllEmployees();
-            System.out.println(employees);
             //2.创建Excel 写到excel当中
             HSSFWorkbook wb = new HSSFWorkbook();
             HSSFSheet sheet = wb.createSheet("员工数据");
@@ -181,12 +176,10 @@ public class EmployeeController {
                 }
                 employeeRow.createCell(7).setCellValue(employee.getDepartment().getName());
             }
-
             //3.响应给浏览器
             String fileName = new String("员工数据.xls".getBytes("utf-8"), "iso8859-1");
             response.setHeader("content-Disposition", "attachment;filename=" + fileName);
             wb.write(response.getOutputStream());
-
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -204,7 +197,6 @@ public class EmployeeController {
             String realPath = request.getSession().getServletContext().getRealPath("static/ExcelTml.xls");
             is = new FileInputStream(realPath);
             IOUtils.copy(is, response.getOutputStream());
-
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
@@ -259,15 +251,11 @@ public class EmployeeController {
                 employee.setPassword("1234");
                 employeeService.saveEmployeeFromExcel(employee);
             }
-
-
         } catch (Exception e) {
             e.printStackTrace();
             ajaxRes.setMsg("导入失败");
             ajaxRes.setSuccess(false);
         }
-
-
         return ajaxRes;
     }
 

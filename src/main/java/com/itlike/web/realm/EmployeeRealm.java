@@ -64,14 +64,10 @@ public class EmployeeRealm extends AuthorizingRealm {
             /*查询权限*/
             permissions = employeeService.getPermissionById(employee.getId());
         }
-
-
        /*给授权信息*/
         SimpleAuthorizationInfo info = new SimpleAuthorizationInfo();
         info.addRoles(roles);
         info.addStringPermissions(permissions);
         return info;
     }
-
-
 }

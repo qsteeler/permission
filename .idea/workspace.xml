@@ -7,27 +7,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e3b79d4-37a5-4d89-a3d9-119217ca59f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Permission.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Permission.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/toastr/toastr.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/toastr/toastr.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itlike/web/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itlike/web/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/static/common/common.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/common/common.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/calendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/calendar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/combobox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/combobox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/css/login/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/css/login/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/employee.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/js/employee.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/easyui.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/easyui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/datagrid_icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/datagrid_icons.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/datebox_arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/datebox_arrow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/dialog_close.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/dialog_close.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/grid.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/grid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/spinner_arrows.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/spinner_arrows.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/tab_dropdown_hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/tab_dropdown_hover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/下拉菜单.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/new/下拉菜单.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/slider_handle.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/slider_handle.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/tree_icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/images/tree_icons.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/linkbutton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/linkbutton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/pagination.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/pagination.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/progressbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/progressbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/switchbutton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/switchbutton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/tab.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/tab.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Permission/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/aspect/SystemAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/aspect/SystemAspect.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/AjaxRes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/domain/AjaxRes.class" afterDir="false" />
@@ -66,51 +71,13 @@
       <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/departmentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/departmentController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/filter/MyFormFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/filter/MyFormFilter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/realm/EmployeeRealm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/WEB-INF/classes/com/itlike/web/realm/EmployeeRealm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/nopermission.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/nopermission.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/easyui-lang-zh_CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/easyui-lang-zh_CN.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/jquery.easyui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/jquery.easyui.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/accordion.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/accordion.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/calendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/calendar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/combobox.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/combobox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/css/login/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/css/login/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/datagrid.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/datagrid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/datalist.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/datalist.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/datebox.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/datebox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/static/common/common.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/common/common.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/static/js/employee.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/js/employee.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/bootstrap/bootstrap.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/easyui.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/easyui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/filebox.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/filebox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/fonticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/fonticon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/datagrid_icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/datagrid_icons.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/datebox_arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/datebox_arrow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/dialog_close.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/dialog_close.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/grid.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/grid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/spinner_arrows.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/spinner_arrows.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/tab_dropdown_hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/tab_dropdown_hover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/下拉菜单.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/new/下拉菜单.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/slider_handle.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/slider_handle.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/tree_icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/images/tree_icons.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/linkbutton.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/linkbutton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/menubutton.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/menubutton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/messager.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/messager.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/pagination.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/pagination.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/panel.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/panel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/progressbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/progressbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/searchbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/searchbox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/spinner.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/spinner.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/switchbutton.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/switchbutton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/tab.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/tab.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/textbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/textbox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/tooltip.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/tooltip.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/tree.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/tree.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/view/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/view/login/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/view/login/login_white.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/view/login/login_white.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/window.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Permission/static/plugins/easyui/uimaker/window.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/aspect/SystemAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/aspect/SystemAspect.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/domain/AjaxRes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/domain/AjaxRes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/itlike/domain/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itlike/domain/Department.class" afterDir="false" />
@@ -151,6 +118,7 @@
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,12 +238,52 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/static/common/common.jsp">
+    <leaf>
+      <file leaf-file-name="SystemAspect.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/aspect/SystemAspect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="510">
+              <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestInterceptor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/interceptor/RequestInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/util/RequestUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+              <folding>
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyFormFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/filter/MyFormFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmployeeRealm.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="67" column="36" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -285,14 +293,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mysql</find>
+      <find>#ff9d02</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -301,8 +310,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/menu.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/role.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/static/js/index.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/service/RoleService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/service/impl/PermissionServiceImpl.java" />
@@ -331,7 +338,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/RoleController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application-mvc.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/employee.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/static/js/employee.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/service/impl/DepartmentServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/service/DepartmentService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/mapper/DepartmentMapper.java" />
@@ -340,18 +346,21 @@
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/mapper/EmployeeMapper.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/EmployeeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/service/impl/EmployeeServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/com.itlike.mapper/EmployeeMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/static/css/login.css" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/LoginController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/interceptor/RequestInterceptor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/filter/MyFormFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/nopermission.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/easyui.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itlike/util/CodeUtil.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/static/common/common.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/js/employee.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java" />
       </list>
     </option>
   </component>
@@ -374,7 +383,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/Web/apache-maven-3.5.4" />
+        <option name="mavenHome" value="D:/Web/apache-maven-3.6.1" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -389,74 +398,150 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-16" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="aspect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itlike" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -472,15 +557,15 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.itlike.service" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\SSM和SSH\权限系统系列\Permission\src\main\resources\com.itlike.mapper" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\permission\src\main\webapp\static\plugins\bootstrap" />
+      <recent name="D:\Project\permission\src\main\webapp\static\plugins\toastr" />
       <recent name="C:\Users\SWP\Desktop\master\src\main\webapp\static\plugins\easyui" />
       <recent name="D:\Project\permission\src\main\webapp\static\plugins\easyui" />
       <recent name="D:\Project\permission\src\main\webapp\static\plugins\easyui\uimaker" />
-      <recent name="D:\Project\permission\src\main\webapp\static\images" />
-      <recent name="D:\Project\permission\src\main\webapp\static\plugins" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.itlike.mapper" />
@@ -489,8 +574,8 @@
       <recent name="com.itlike.util" />
       <recent name="com.itlike.web.filter" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\SSM和SSH\权限系统系列\Permission\src\main\resources\com.itlike.mapper" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.itlike.service" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -505,10 +590,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.15" ALTERNATIVE_JRE_ENABLED="false">
+  <component name="RunManager" selected="Tomcat Server.Tomcat8">
+    <configuration name="CodeUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itlike.util.CodeUtil" />
+      <module name="Permission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itlike.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="UPDATING_POLICY" value="restart-server" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
         <artifact name="Permission:war exploded">
           <settings>
@@ -605,13 +701,21 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
+      <method>
         <option name="BuildArtifacts" enabled="true">
           <artifact name="Permission:war exploded" />
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat8" />
+      <item itemvalue="Application.CodeUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeUtil" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -642,11 +746,13 @@
       <workItem from="1568855677196" duration="827000" />
       <workItem from="1569370809160" duration="15502000" />
       <workItem from="1569415565955" duration="1272000" />
+      <workItem from="1569456958107" duration="15238000" />
+      <workItem from="1569745148457" duration="1018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103975000" />
+    <option name="totallyTimeSpent" value="120231000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -658,45 +764,45 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1386" height="788" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.28280544" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="JRebel" order="3" sideWeight="0.50082916" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44690967" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4779661" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.24471635" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.5026652" side_tool="true" weight="0.5773875" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.025586354" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" sideWeight="0.49733475" weight="0.13107345" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4779661" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925472" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.32925472" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.04328524" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32925472" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.20522387" />
       <window_info anchor="bottom" id="Problems" order="11" weight="0.32925472" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="JRebel Executor" order="14" sideWeight="0.49733475" weight="0.13107345" />
-      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.5026652" side_tool="true" weight="0.5773875" />
-      <window_info anchor="bottom" id="Messages" order="16" weight="0.21098901" />
-      <window_info anchor="bottom" id="Java Enterprise" order="17" weight="0.32925472" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.036199097" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="JRebel" order="3" sideWeight="0.50082916" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.21098901" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -706,43 +812,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.7.RELEASE/spring-aop-5.0.7.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.7.RELEASE/spring-aop-5.0.7.RELEASE.jar!/org/springframework/aop/aspectj/AspectJAfterAdvice.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/RoleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="92" column="5" lean-forward="true" selection-start-line="77" selection-start-column="3" selection-end-line="92" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/service/impl/RoleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="63" column="13" lean-forward="true" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com.itlike.mapper/MenuMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/MenuController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="69" column="5" selection-start-line="64" selection-start-column="3" selection-end-line="69" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/service/impl/MenuServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.21/mysql-connector-java-5.1.21.pom">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -849,36 +918,13 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/base.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/bootstrap.min.js" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6604" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/login.css" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/aspect/SystemAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="21" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.7.RELEASE/spring-webmvc-5.0.7.RELEASE.jar!/org/springframework/web/servlet/HandlerInterceptor.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -888,31 +934,10 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.4.0/shiro-web-1.4.0-sources.jar!/org/apache/shiro/web/filter/authc/FormAuthenticationFilter.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.4.0/shiro-web-1.4.0-sources.jar!/org/apache/shiro/web/filter/authc/AuthenticatingFilter.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/nopermission.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-938">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -924,35 +949,10 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ThreadLocal.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/util/RequestUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-          <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/filter/MyFormFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="78" column="25" lean-forward="true" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/interceptor/RequestInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -962,10 +962,125 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/plugins/easyui/uimaker/easyui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret column="4709" lean-forward="true" selection-start-column="4709" selection-end-column="4709" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/util/CodeUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/plugins/toastr/toastr.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/tree.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/plugins/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/static/common/common.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#div#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/employee.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="248" column="7" lean-forward="true" selection-start-line="248" selection-start-column="7" selection-end-line="248" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6751">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/mapper/SystemlogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/aspect/SystemAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/interceptor/RequestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/util/RequestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/filter/MyFormFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itlike/web/realm/EmployeeRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="67" column="36" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="36" />
         </state>
       </provider>
     </entry>

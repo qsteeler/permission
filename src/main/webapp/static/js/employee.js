@@ -53,7 +53,6 @@ $(function () {
         buttons:[{
             text:'保存',
             handler:function(){
-
                 /*判断当前是添加 还是编辑*/
                 var id = $("[name='id']").val();
                 var url;
@@ -64,7 +63,6 @@ $(function () {
                     /*添加*/
                     url= "saveEmployee";
                 }
-
                 /*提交表单*/
                 $("#employeeForm").form("submit",{
                     url:url,
